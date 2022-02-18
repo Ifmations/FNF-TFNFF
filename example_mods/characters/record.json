@@ -38,7 +38,7 @@
 				228,
 				-63
 			],
-			"loop": true,
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
