@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				408
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dababy-floating down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				406
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "dababy-floating down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				406
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dababy-floating idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				406
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dababy-floating up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				406
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "dababy-floating up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				406
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "dababy-floating left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				406
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dababy-floating left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				406
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dababy-floating right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				406
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "dababy-floating right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dababy-floating",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-90,
+		-420
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,50 @@
+{
+	"position": [
+		10,
+		-100
+	],
+	"dialogue_pos": "left",
+	"scale": 1.2,
+	"image": "if",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "if talk",
+			"loop_name": "if talk"
+		},
+		{
+			"loop_name": "if e",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "if e",
+			"anim": "e",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "if urgh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "if urgh",
+			"anim": "tankman ugh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that was tough!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "annoying...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i never got your name by the way,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dave"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whats yours?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "djab"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "stupid name."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "time for another battle,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "and this one will be super hard"
+		}
+	]
+}

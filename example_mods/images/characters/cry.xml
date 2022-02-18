@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cry.png"><SubTexture name="cry idle0000" x="0" y="0" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0001" x="924" y="0" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0002" x="1848" y="0" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0003" x="2772" y="0" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0004" x="0" y="965" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0005" x="924" y="965" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0006" x="1848" y="965" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0007" x="2772" y="965" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0008" x="0" y="1930" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0009" x="924" y="1930" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0010" x="1848" y="1930" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0011" x="2772" y="1930" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry idle0012" x="0" y="2895" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry cry0000" x="924" y="2895" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry cry0001" x="1848" y="2895" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+<SubTexture name="cry cry0002" x="2772" y="2895" width="924" height="965" frameX="0" frameY="0" frameWidth="924" frameHeight="965" />
+</TextureAtlas>

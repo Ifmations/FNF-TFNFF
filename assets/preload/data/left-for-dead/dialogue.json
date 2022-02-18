@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wow that was funky!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how are you even alive? like you are fire!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "uhh",
+			"text": "i dont like talking about my past...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cmon! you can tell me-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "angry",
+			"expression": "sweat",
+			"text": "I SAID NO!!"
+		},
+		{
+			"speed": 0.4,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "could you at least sing it?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure whatever."
+		}
+	]
+}

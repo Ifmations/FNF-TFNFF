@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "scientist up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "scientist left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "scientist down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "scientist right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-1,
+				80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "scientist idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scientist",
+	"position": [
+		-140,
+		-130
+	],
+	"healthicon": "scientist",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		0,
+		255
+	],
+	"camera_position": [
+		90,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

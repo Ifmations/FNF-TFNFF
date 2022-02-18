@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "SHIT HE'S HERE`!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "angry",
+			"expression": "crap",
+			"text": "HDJHOJSNOIDODHJHSOPJSUSISJOIJPORNKSOJSIN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i have taken all your friends abilities and rapping strategies."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you dont mean...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "JACKS"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait hold on"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "djab never did jacks."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you must have done someone elses abilities."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah well your health drains as well."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thats new,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "void",
+			"boxState": "normal",
+			"expression": "vortex",
+			"text": "*suck*"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				100,
+				356
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "death"
+		},
+		{
+			"offsets": [
+				100,
+				356
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "ded dababy"
+		},
+		{
+			"offsets": [
+				100,
+				356
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "ded lol"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deaddjab-dead",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "dad",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-260,
+		-470
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

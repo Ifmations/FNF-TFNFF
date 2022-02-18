@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="science.png"><SubTexture name="science talk0000" x="0" y="0" width="675" height="654" frameX="0" frameY="0" frameWidth="675" frameHeight="654" />
+<SubTexture name="science uh0000" x="675" y="0" width="675" height="654" frameX="0" frameY="0" frameWidth="675" frameHeight="654" />
+<SubTexture name="science uhm0000" x="0" y="654" width="675" height="654" frameX="0" frameY="0" frameWidth="675" frameHeight="654" />
+<SubTexture name="science dies0000" x="675" y="654" width="675" height="654" frameX="0" frameY="0" frameWidth="675" frameHeight="654" />
+<SubTexture name="science creepy0000" x="0" y="1308" width="675" height="654" frameX="0" frameY="0" frameWidth="675" frameHeight="654" />
+<SubTexture name="science mysterious0000" x="675" y="1308" width="675" height="654" frameX="0" frameY="0" frameWidth="675" frameHeight="654" />
+<SubTexture name="science shadow0000" x="0" y="1962" width="675" height="654" frameX="0" frameY="0" frameWidth="675" frameHeight="654" />
+<SubTexture name="science KILL0000" x="675" y="1962" width="675" height="654" frameX="0" frameY="0" frameWidth="675" frameHeight="654" />
+</TextureAtlas>

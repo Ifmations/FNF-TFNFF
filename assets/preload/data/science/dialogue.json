@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "welcome to the tour of the lab, dont touch anything, or breath in anything, and dont do this, or that or blah blah blah..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this tour is so exciting!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok now its fucking boring"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i wonder whats under here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "angry",
+			"expression": "creepy",
+			"text": "DONT TOUCH THAT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "i mean... uhh *stutter* i think you *cough* should uhh... put that down."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "normal",
+			"expression": "uhm",
+			"text": "yes."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "really?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "angry",
+			"expression": "hmm?",
+			"text": "*muffled* help!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "was that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "angry",
+			"expression": "creepy",
+			"text": "NOTHING!!! yup! definetly nothing! you should put that down before something bad happens!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap for it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if i win then i can take off the sheet."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright fine."
+		}
+	]
+}

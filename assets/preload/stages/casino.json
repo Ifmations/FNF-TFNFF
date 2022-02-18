@@ -1,0 +1,9 @@
+{
+	"directory": "caged",
+	"defaultZoom": 0.65,
+	"isPixelStage": false,
+
+	"boyfriend": [1090, 400],
+	"girlfriend": [400, 130],
+	"opponent": [100, 100]
+}

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="firebro.png"><SubTexture name="firebro idle0000" x="0" y="0" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro idle0001" x="1039" y="0" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro idle0002" x="2078" y="0" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro left0000" x="3117" y="0" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro idle0003" x="0" y="1579" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro idle0004" x="1039" y="1579" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro down0000" x="2078" y="1579" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro down0001" x="3117" y="1579" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro down0002" x="0" y="3158" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro down0003" x="1039" y="3158" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro right0000" x="2078" y="3158" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro right0001" x="3117" y="3158" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro right0002" x="0" y="4737" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro up0000" x="1039" y="4737" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro up0001" x="2078" y="4737" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro up0002" x="3117" y="4737" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+<SubTexture name="firebro left0001" x="0" y="6316" width="1039" height="1579" frameX="0" frameY="0" frameWidth="1039" frameHeight="1579" />
+</TextureAtlas>

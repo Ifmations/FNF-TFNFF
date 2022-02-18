@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "fucking..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "SHIT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uh oh. i made him angery"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i think he is about to drop..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "the bars."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "the bars arent the only thing im going to drop once im finished,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what are you gonna drop then?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "off a cliff"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok then, that awnsered my question,"
+		}
+	]
+}

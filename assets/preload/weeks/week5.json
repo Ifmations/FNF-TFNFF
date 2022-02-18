@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["reload", "mom", [160, 209, 255]],
+		["virus", "mom", [160, 209, 255]],
+		["reset", "monster", [160, 209, 255]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "christmas",
+
+	"storyName": "GLITCH WORLD",
+	"weekBefore": "week3",
+	"weekName": "Week 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

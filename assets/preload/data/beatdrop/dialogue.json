@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "where the actual hell am i?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "get the hell out, im training"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "training?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "for what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "you actually dont know?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "for the rapping contest thats coming up!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im good at rapping, i could help,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "eh, whatever."
+		}
+	]
+}

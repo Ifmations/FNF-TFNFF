@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="swagg.png"><SubTexture name="swagg idle0000" x="0" y="0" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg idle0001" x="1456" y="0" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg idle0002" x="2912" y="0" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg idle0003" x="4368" y="0" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg idle0004" x="5824" y="0" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg idle0005" x="0" y="2154" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg idle0006" x="1456" y="2154" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg idle0007" x="2912" y="2154" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg down0000" x="4368" y="2154" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg down0001" x="5824" y="2154" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg down0002" x="0" y="4308" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg down0003" x="1456" y="4308" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg down0004" x="2912" y="4308" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg right0000" x="4368" y="4308" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg right0001" x="5824" y="4308" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg right0002" x="0" y="6462" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg right0003" x="1456" y="6462" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg right0004" x="2912" y="6462" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg up0000" x="4368" y="6462" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg up0001" x="5824" y="6462" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg up0002" x="0" y="8616" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg up0003" x="1456" y="8616" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg up0004" x="2912" y="8616" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg left0000" x="4368" y="8616" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg left0001" x="5824" y="8616" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg left0002" x="0" y="10770" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+<SubTexture name="swagg left0003" x="1456" y="10770" width="1456" height="2154" frameX="0" frameY="0" frameWidth="1456" frameHeight="2154" />
+</TextureAtlas>

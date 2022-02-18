@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="buriedalive.png"><SubTexture name="buriedalive idle0000" x="0" y="0" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive idle0001" x="950" y="0" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive idle0002" x="1900" y="0" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive idle0003" x="2850" y="0" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive idle0004" x="0" y="787" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive idle0005" x="950" y="787" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive idle0006" x="1900" y="787" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive idle0007" x="2850" y="787" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive down0000" x="0" y="1574" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive down0001" x="950" y="1574" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive down0002" x="1900" y="1574" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive down0003" x="2850" y="1574" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive left0000" x="0" y="2361" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive left0001" x="950" y="2361" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive left0002" x="1900" y="2361" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive up0000" x="2850" y="2361" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive up0001" x="0" y="3148" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive up0002" x="950" y="3148" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive right0000" x="1900" y="3148" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive right0001" x="2850" y="3148" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+<SubTexture name="buriedalive right0002" x="0" y="3935" width="950" height="787" frameX="0" frameY="0" frameWidth="950" frameHeight="787" />
+</TextureAtlas>

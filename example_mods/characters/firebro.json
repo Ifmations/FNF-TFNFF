@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				616,
+				414
+			],
+			"loop": true,
+			"fps": 25,
+			"anim": "idle",
+			"indices": [],
+			"name": "firebro idle"
+		},
+		{
+			"offsets": [
+				616,
+				414
+			],
+			"loop": true,
+			"fps": 25,
+			"anim": "singUP",
+			"indices": [],
+			"name": "firebro up"
+		},
+		{
+			"offsets": [
+				616,
+				415
+			],
+			"loop": true,
+			"fps": 25,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "firebro down"
+		},
+		{
+			"offsets": [
+				616,
+				414
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "firebro left"
+		},
+		{
+			"offsets": [
+				616,
+				413
+			],
+			"loop": true,
+			"fps": 25,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "firebro right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/firebro",
+	"position": [
+		60,
+		-60
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		60
+	],
+	"camera_position": [
+		-410,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

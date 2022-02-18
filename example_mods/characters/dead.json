@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "buriedalive up"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "buriedalive idle"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "buriedalive right"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "buriedalive left"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "buriedalive down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/buriedalive",
+	"position": [
+		0,
+		-40
+	],
+	"healthicon": "dead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-220,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"kept-away",
+			"if",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"danger",
+			"if",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"final-loss",
+			"if",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"finale",
+			"if",
+			[
+                146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "the end of us all",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

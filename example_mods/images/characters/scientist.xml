@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scientist.png"><SubTexture name="scientist idle0000" x="0" y="0" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist idle0001" x="943" y="0" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist idle0002" x="1886" y="0" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist idle0003" x="2829" y="0" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist idle0004" x="0" y="1112" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist idle0005" x="943" y="1112" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist down0000" x="1886" y="1112" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist down0001" x="2829" y="1112" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist down0002" x="0" y="2224" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist down0003" x="943" y="2224" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist left0000" x="1886" y="2224" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist left0001" x="2829" y="2224" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist left0002" x="0" y="3336" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist left0003" x="943" y="3336" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist up0000" x="1886" y="3336" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist up0001" x="2829" y="3336" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist up0002" x="0" y="4448" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist up0003" x="943" y="4448" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist right0000" x="1886" y="4448" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist right0001" x="2829" y="4448" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist right0002" x="0" y="5560" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+<SubTexture name="scientist right0003" x="943" y="5560" width="943" height="1112" frameX="0" frameY="0" frameWidth="943" frameHeight="1112" />
+</TextureAtlas>

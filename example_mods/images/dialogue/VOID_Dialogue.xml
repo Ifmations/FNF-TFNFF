@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="VOID_dialogue.png">
+<SubTexture name="VOIDTALK0000" x="0" y="0" width="344" height="378" frameX="0" frameY="0" frameWidth="344" frameHeight="378" />
+<SubTexture name="VOIDMAD0000" x="344" y="0" width="344" height="378" frameX="0" frameY="0" frameWidth="344" frameHeight="378" />
+<SubTexture name="VOIDSUCK0000" x="688" y="0" width="344" height="378" frameX="0" frameY="0" frameWidth="344" frameHeight="378" />
+</TextureAtlas>

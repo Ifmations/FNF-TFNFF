@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="amog.png"><SubTexture name="amog down0000" x="0" y="0" width="895" height="1225" frameX="0" frameY="0" frameWidth="895" frameHeight="1225" />
+<SubTexture name="amog down0001" x="895" y="0" width="895" height="1225" frameX="0" frameY="0" frameWidth="895" frameHeight="1225" />
+<SubTexture name="amog down0002" x="1790" y="0" width="895" height="1225" frameX="0" frameY="0" frameWidth="895" frameHeight="1225" />
+<SubTexture name="amog down0003" x="2685" y="0" width="895" height="1225" frameX="0" frameY="0" frameWidth="895" frameHeight="1225" />
+<SubTexture name="amog down0004" x="0" y="1225" width="895" height="1225" frameX="0" frameY="0" frameWidth="895" frameHeight="1225" />
+<SubTexture name="amog idle0000" x="895" y="1225" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+<SubTexture name="amog idle0001" x="1611" y="1225" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+<SubTexture name="amog idle0002" x="2327" y="1225" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+<SubTexture name="amog idle0003" x="0" y="2450" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+<SubTexture name="amog idle0004" x="716" y="2450" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+<SubTexture name="amog idle0005" x="1432" y="2450" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+<SubTexture name="amog left0000" x="2148" y="2450" width="939" height="1017" frameX="0" frameY="0" frameWidth="939" frameHeight="1017" />
+<SubTexture name="amog left0001" x="0" y="3467" width="939" height="1017" frameX="0" frameY="0" frameWidth="939" frameHeight="1017" />
+<SubTexture name="amog left0002" x="939" y="3467" width="939" height="1017" frameX="0" frameY="0" frameWidth="939" frameHeight="1017" />
+<SubTexture name="amog left0003" x="1878" y="3467" width="939" height="1017" frameX="0" frameY="0" frameWidth="939" frameHeight="1017" />
+<SubTexture name="amog left0004" x="2817" y="3467" width="939" height="1017" frameX="0" frameY="0" frameWidth="939" frameHeight="1017" />
+<SubTexture name="amog right0000" x="0" y="4484" width="895" height="1017" frameX="0" frameY="0" frameWidth="895" frameHeight="1017" />
+<SubTexture name="amog right0001" x="895" y="4484" width="895" height="1017" frameX="0" frameY="0" frameWidth="895" frameHeight="1017" />
+<SubTexture name="amog right0002" x="1790" y="4484" width="895" height="1017" frameX="0" frameY="0" frameWidth="895" frameHeight="1017" />
+<SubTexture name="amog right0003" x="2685" y="4484" width="895" height="1017" frameX="0" frameY="0" frameWidth="895" frameHeight="1017" />
+<SubTexture name="amog right0004" x="0" y="5501" width="895" height="1017" frameX="0" frameY="0" frameWidth="895" frameHeight="1017" />
+<SubTexture name="amog up0000" x="895" y="5501" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+<SubTexture name="amog up0001" x="1611" y="5501" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+<SubTexture name="amog up0002" x="2327" y="5501" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+<SubTexture name="amog up0003" x="0" y="6518" width="716" height="1017" frameX="0" frameY="0" frameWidth="716" frameHeight="1017" />
+</TextureAtlas>

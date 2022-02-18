@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i won. cough up the exit, now,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh i won fair and square"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "scan",
+			"text": ":scanning:"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait what the hell are you doing?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "glitch",
+			"text": "!ERROR DETECTED: VIRUS IMMINENT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "flame",
+			"text": "ELIMINATION REQUIRED"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh shit"
+		}
+	]
+}

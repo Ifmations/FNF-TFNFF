@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-630,
+		60
+	],
+	"scale": 1.55,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "GDJABtalk",
+			"idle_name": "GDJABtalk"
+		},
+		{
+			"loop_name": "Gdjabport G",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Gdjabport G",
+			"anim": "glitch",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Gdjabport sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Gdjabport sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Gdjabport possessed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Gdjabport possessed",
+			"anim": "crap",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "G_DJAB_Dialogue"
+}

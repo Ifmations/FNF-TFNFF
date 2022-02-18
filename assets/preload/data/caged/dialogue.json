@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i kidnapped a interdimensional beings child."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thats stupid"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "angry",
+			"expression": "hmm?",
+			"text": "WHOS THERE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "normal",
+			"expression": "uhm",
+			"text": "oh shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "normal",
+			"expression": "shadow",
+			"text": "you took my child!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "angry",
+			"expression": "kill",
+			"text": "PAY!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "science",
+			"boxState": "angry",
+			"expression": "dies",
+			"text": "AAAAJAKHAOJHYUFNUUNN(dNBCXDSE\\neoifjieojei9g\\nehfuhruh\\nejfirei\\nufefughuohgiuwerheriuhreuohr"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glip",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok sure"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		}
+	]
+}

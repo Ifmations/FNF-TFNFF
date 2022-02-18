@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wow..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that was cool."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "uhh",
+			"text": "yeah..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh by the way, do you want to come with me to a casino?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "all the best people will be there, like me, and that one cool scientist, and pico, and bf! and whitty... purple guy.... djab.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "DJAB???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok im gonna go!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "three... weeks.. later...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "swag",
+			"text": "hey man!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wheres djab."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "swag",
+			"text": "oh shoot! you just missed him! but he will be up at his rapping studio later, but play dumb, he doesnt like fans, so just act like you dont know him,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "k,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "heh",
+			"text": "now LETS RAP!!!"
+		}
+	]
+}

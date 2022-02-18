@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "record bf up"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "record idle"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "record bf down"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "record bf right"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "record bf left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				228,
+				-63
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "record djab up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				228,
+				-63
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "record djab down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				228,
+				-63
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "record djab right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				228,
+				-63
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "record djab left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": true,
+			"name": "record bf up"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": true,
+			"name": "record bf down"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": true,
+			"name": "record bf left"
+		},
+		{
+			"offsets": [
+				228,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": true,
+			"name": "record bf right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/record",
+	"position": [
+		-160,
+		0
+	],
+	"healthicon": "record",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		10,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

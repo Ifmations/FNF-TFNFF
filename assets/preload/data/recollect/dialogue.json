@@ -1,0 +1,130 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.085,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "urgh....... where..... am i..?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "the void."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "HOLY WHAT THE HELL!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i am the guardian of this realm"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "can you tell my why im here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "last i remember, i was rapping this kid and i got carried away, and now im here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "pretty much, yeah."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so turns out you are a god"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im not a god."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dont try to say im all powerful, i couldnt even beat that kid in a battle!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you were about to"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "djab",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "WAITWHATHOWDIDYOUGETHER-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "its me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "you can shapeshift?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes. and you were about to destroy the universe, thats why we had to teleport you here,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what if i rap battle you to get out?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eye",
+			"boxState": "normal",
+			"expression": "annoyed",
+			"text": "ill send my hand through to battle you..."
+		}
+	]
+}

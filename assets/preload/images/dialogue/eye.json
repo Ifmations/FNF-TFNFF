@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-60,
+		60
+	],
+	"scale": 1.3,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "eyenormal",
+			"idle_name": "eyenormal"
+		},
+		{
+			"loop_name": "eyeannyoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "eyeannyoyed",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "eyescan",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "eyescan",
+			"anim": "scan",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "eyeflame",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "eyeflame",
+			"anim": "flame",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "eyeglitch",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "eyeglitch",
+			"anim": "glitch",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "EYE_Dialogue"
+}

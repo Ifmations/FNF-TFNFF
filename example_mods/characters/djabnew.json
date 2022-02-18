@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				158
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "djab idle"
+		},
+		{
+			"offsets": [
+				90,
+				158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "djab right"
+		},
+		{
+			"offsets": [
+				90,
+				158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "djab up"
+		},
+		{
+			"offsets": [
+				130,
+				168
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "djab down"
+		},
+		{
+			"offsets": [
+				98,
+				154
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "djab left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/djab",
+	"position": [
+		20,
+		-100
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		200,
+		255
+	],
+	"camera_position": [
+		-110,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

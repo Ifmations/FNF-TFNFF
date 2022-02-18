@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why...... am i even here......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "angry",
+			"expression": "glitch",
+			"text": "GZGZGZG"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sniff*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im never getting out of here.... and that void guy is probably going to get me..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey why is Santa here?."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh he found out obamas last name."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "please..... let me get out...."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "glitch",
+			"boxState": "angry",
+			"expression": "glitch",
+			"text": "GZGZGZZZZ"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you good?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "help.... im tortured in here.... please...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "get me out....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap first."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine..... but after, we need to get out..."
+		}
+	]
+}

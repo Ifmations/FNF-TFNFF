@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-420,
+		0
+	],
+	"scale": 2.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				1,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "VOIDTALK",
+			"idle_name": "VOIDTALK"
+		},
+		{
+			"loop_name": "VOIDMAD",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "VOIDMAD",
+			"anim": "mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "VOIDSUCK",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "VOIDSUCK",
+			"anim": "vortex",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "VOID_Dialogue"
+}

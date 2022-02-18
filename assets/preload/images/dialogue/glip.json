@@ -1,0 +1,50 @@
+{
+	"position": [
+		-540,
+		-600
+	],
+	"dialogue_pos": "left",
+	"scale": 0.649999999999999,
+	"image": "glip",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				1
+			],
+			"anim": "talk",
+			"idle_name": "glip talk",
+			"loop_name": "glip talk"
+		},
+		{
+			"loop_name": "glip creep",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "glip creep",
+			"anim": "creep",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "glip A",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "glip A",
+			"anim": "A",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

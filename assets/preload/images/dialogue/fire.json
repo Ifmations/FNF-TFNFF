@@ -1,0 +1,89 @@
+{
+	"position": [
+		-210,
+		-220
+	],
+	"dialogue_pos": "right",
+	"scale": 0.9,
+	"image": "fire",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "fire idle",
+			"loop_name": "fire idle"
+		},
+		{
+			"loop_name": "fire uhh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "fire uhh",
+			"anim": "uhh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "fire swag",
+			"idle_offsets": [
+				60,
+				188
+			],
+			"idle_name": "fire swag",
+			"anim": "swag",
+			"loop_offsets": [
+				60,
+				188
+			]
+		},
+		{
+			"loop_name": "fire heh",
+			"idle_offsets": [
+				60,
+				188
+			],
+			"idle_name": "fire heh",
+			"anim": "heh",
+			"loop_offsets": [
+				60,
+				188
+			]
+		},
+		{
+			"loop_name": "fire FURIOUSLY FAPPING",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "fire FURIOUSLY FAPPING",
+			"anim": "sweat",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "fire point",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "fire point",
+			"anim": "point",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

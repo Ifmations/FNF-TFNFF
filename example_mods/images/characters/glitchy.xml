@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitchy.png"><SubTexture name="glitchy idle0000" x="0" y="0" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy idle0001" x="2052" y="0" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy idle0002" x="4104" y="0" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy idle0003" x="6156" y="0" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy idle0004" x="0" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy idle0005" x="2052" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy up0000" x="4104" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy up0001" x="6156" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy up0002" x="0" y="3080" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy right0000" x="2052" y="3080" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy right0001" x="4104" y="3080" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy right0002" x="6156" y="3080" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy down0000" x="0" y="4620" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy down0001" x="2052" y="4620" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy down0002" x="4104" y="4620" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy left0000" x="6156" y="4620" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy left0001" x="0" y="6160" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy left0002" x="2052" y="6160" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy left0003" x="4104" y="6160" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="glitchy left0004" x="6156" y="6160" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+</TextureAtlas>

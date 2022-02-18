@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="if.png"><SubTexture name="if idle0000" x="0" y="0" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if idle0001" x="710" y="0" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if idle0002" x="1420" y="0" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if idle0003" x="2130" y="0" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if idle0004" x="0" y="1097" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if idle0005" x="710" y="1097" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if left0000" x="1420" y="1097" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if left0001" x="2130" y="1097" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if left0002" x="0" y="2194" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if left0003" x="710" y="2194" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if down0000" x="1420" y="2194" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if down0001" x="2130" y="2194" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if down0002" x="0" y="3291" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if down0003" x="710" y="3291" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if right0000" x="1420" y="3291" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if right0001" x="2130" y="3291" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if right0002" x="0" y="4388" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if right0003" x="710" y="4388" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if up0000" x="1420" y="4388" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if up0001" x="2130" y="4388" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if up0002" x="0" y="5485" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+<SubTexture name="if up0003" x="710" y="5485" width="710" height="1097" frameX="0" frameY="0" frameWidth="710" frameHeight="1097" />
+</TextureAtlas>

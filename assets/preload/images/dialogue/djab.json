@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-610,
+		40
+	],
+	"scale": 1.65,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "DJABtalk",
+			"idle_name": "DJABtalk"
+		},
+		{
+			"loop_name": "djabport  mad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "djabport mad",
+			"anim": "mad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "djabport shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "djabport shocked",
+			"anim": "shocked",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "djabport angry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "djabport angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "djabport pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "djabport pissed",
+			"anim": "pissed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "DJAB_Dialogue"
+}

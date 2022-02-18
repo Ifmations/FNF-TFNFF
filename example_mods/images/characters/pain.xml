@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pain.png"><SubTexture name="pain drag on deez nutz0000" x="0" y="0" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0001" x="2052" y="0" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0002" x="4104" y="0" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0003" x="6156" y="0" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0004" x="0" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0005" x="2052" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0006" x="2052" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0007" x="2052" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0008" x="2052" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0009" x="2052" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="pain drag on deez nutz0010" x="2052" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+<SubTexture name="oof0001" x="2052" y="1540" width="2052" height="1540" frameX="0" frameY="0" frameWidth="2052" frameHeight="1540" />
+</TextureAtlas>

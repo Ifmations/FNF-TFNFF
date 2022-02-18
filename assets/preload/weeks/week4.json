@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"science",
+			"scientist",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"captured",
+			"scientist",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"caged",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "the science isnt real",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

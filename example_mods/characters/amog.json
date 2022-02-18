@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				97
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "amog up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				97
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "amog right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				159,
+				97
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "amog idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				50,
+				103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "amog down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				321,
+				97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "amog left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amog",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tankman",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

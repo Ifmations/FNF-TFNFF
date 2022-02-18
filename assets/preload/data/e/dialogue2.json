@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "grimace",
+			"text": "this rock blows, why did i get sent here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "time to sear-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh shit."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you the rouge crewmate?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im an 'imposter' if you should know,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap bitch,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "red",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "huh?"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"campfire",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"left-for-dead",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"checkmate",
+			"gf",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "fire guy meets rapper boy",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

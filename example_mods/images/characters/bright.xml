@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bright.png"><SubTexture name="bright idle0000" x="0" y="0" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright idle0001" x="507" y="0" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright idle0002" x="1014" y="0" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright idle0003" x="1521" y="0" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright idle0004" x="2028" y="0" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright down0000" x="0" y="702" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright down0001" x="507" y="702" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright down0002" x="1014" y="702" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright down0003" x="1521" y="702" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright down0004" x="2028" y="702" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright left0000" x="0" y="1404" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright left0001" x="507" y="1404" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright left0002" x="1014" y="1404" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright left0003" x="1521" y="1404" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright right0000" x="2028" y="1404" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright right0001" x="0" y="2106" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright right0002" x="507" y="2106" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright right0003" x="1014" y="2106" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright right0004" x="1521" y="2106" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright right0005" x="2028" y="2106" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright up0000" x="0" y="2808" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright up0001" x="507" y="2808" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright up0002" x="1014" y="2808" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright up0003" x="1521" y="2808" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright up0004" x="2028" y="2808" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+<SubTexture name="bright up0005" x="0" y="3510" width="507" height="702" frameX="0" frameY="0" frameWidth="507" frameHeight="702" />
+</TextureAtlas>

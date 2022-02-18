@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["beatdrop", "dad", [146, 113, 253]],
+		["deathnote", "dad", [146, 113, 253]],
+		["oblivion", "dad", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "RAPPING OF THE CENTURY",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this road...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "its texture....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who though, hey! im gonna make roads feel like this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it fucking sucks ass"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "e",
+			"text": "are you dave?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im afraid that in 20 minutes, the whole world will cease to exist."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are you joking?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "e",
+			"text": ""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh fuck hes not joking"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "its because of herpleximon"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who..?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "tankman ugh",
+			"text": "that green guy you saw when you were at that lab"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i dont believe you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "maybe a rap battle will clear things up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it better."
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"songs": [
+		[
+			"recollect",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"void",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "preweek (PLAY AFTER WEEK 2)",
+	"weekName": "custom week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week 3",
+	"startUnlocked": true
+}

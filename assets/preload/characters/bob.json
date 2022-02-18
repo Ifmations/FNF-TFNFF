@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bob_DOWN"
+		},
+		{
+			"offsets": [
+				-5,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bob_LEFT"
+		},
+		{
+			"offsets": [
+				-5,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bob_RIGHT"
+		},
+		{
+			"offsets": [
+				-5,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bob_UP"
+		},
+		{
+			"offsets": [
+				-5,
+				160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bob_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-200,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you have to get out......"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "its too late for me.... but you have to get out for me..."
+		},
+		{
+			"speed": 0.015,
+			"portrait": "glitch",
+			"boxState": "angry",
+			"expression": "glitch",
+			"text": "GZGZGZ"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but we havent finished rapping,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "djab",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SCREW THE RAPPING!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i just wanna get out...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "one more song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glitch",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "fine. but he's already here...."
+		}
+	]
+}

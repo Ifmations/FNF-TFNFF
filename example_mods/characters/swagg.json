@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				616,
+				413
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "idle",
+			"loop": true,
+			"name": "swagg idle"
+		},
+		{
+			"offsets": [
+				616,
+				414
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singUP",
+			"loop": true,
+			"name": "swagg up"
+		},
+		{
+			"offsets": [
+				616,
+				415
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "swagg down"
+		},
+		{
+			"offsets": [
+				616,
+				414
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "swagg left"
+		},
+		{
+			"offsets": [
+				616,
+				413
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "swagg right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/swagg",
+	"position": [
+		60,
+		-60
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		60
+	],
+	"camera_position": [
+		-260,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

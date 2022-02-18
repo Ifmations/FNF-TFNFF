@@ -1,0 +1,115 @@
+{
+	"position": [
+		120,
+		-140
+	],
+	"dialogue_pos": "left",
+	"scale": 1.2,
+	"image": "science",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "science talk",
+			"loop_name": "science talk"
+		},
+		{
+			"loop_name": "science uh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "science uh",
+			"anim": "uh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "science uhm",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "science uhm",
+			"anim": "uhm",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "science dies",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "science dies",
+			"anim": "dies",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "science creepy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "science creepy",
+			"anim": "creepy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "science KILL",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "science KILL",
+			"anim": "kill",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "science shadow",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "science shadow",
+			"anim": "shadow",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "science mysterious",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "science mysterious",
+			"anim": "hmm?",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

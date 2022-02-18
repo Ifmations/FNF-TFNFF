@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what a nice camping trip i am on!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi there matey!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh hi!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i am the park-keeper!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thats ironic,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "since your made of fire and all,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "say, is that a microphone you got there?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes it is,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "do you want to have a rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "fire",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nice!"
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "look up!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*looks up*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glip",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yo what the fuck"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you the guy who been causing all this?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glip",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sweats nervously*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glip",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he said he isnt the source."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "e",
+			"text": "WHAT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what is he doing now then!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "glip",
+			"boxState": "normal",
+			"expression": "creep",
+			"text": "fjifjiwj903u83jv9382nu89YB@FY*N@*F@UD**@VV*VMMVV#YUV\\nIUIVU*V(#U()@POIVOp;apiropi 34t04tuuu yui yr8CYR%^R&#*#*MFNV*B(>LQIJM:\"OIUIEOPEI#OW"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but lets have another rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "god you really are oblivious"
+		}
+	]
+}

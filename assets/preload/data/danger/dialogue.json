@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i still dont believe you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "GOD! why are you so ignorant!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im not ignorant!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "yes you are! when djab was in the void, you didnt even care about him! you just wanted to rap! you dont care about anyone but yourself!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are you even listening?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "the time is 2:30"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i didnt...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "tankman ugh",
+			"text": "UURRGH!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ill show you!"
+		}
+	]
+}

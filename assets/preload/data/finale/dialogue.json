@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "all right! lets stop this guy!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "we cant."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hes become too powerful. we cant."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "tankman ugh",
+			"text": "its over."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "if",
+			"boxState": "normal",
+			"expression": "tankman ugh",
+			"text": "we are all dead."
+		}
+	]
+}
